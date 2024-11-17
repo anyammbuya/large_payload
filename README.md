@@ -1,6 +1,6 @@
 # Handling Large Payloads in an Architecture that Uses API Gateway and Lambda
 
-We used serverless framework for create backend resources
+We used serverless framework to create backend resources
 
 A Rest API will support 10MB of payload
 
@@ -30,4 +30,4 @@ SNS (Created Manually)
 
 The Diagram below shows the architecture.
 
-![My Awesome Logo](diagram.png)
+![My Awesome Logo](diagram.drawio.png)
